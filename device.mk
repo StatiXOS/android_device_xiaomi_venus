@@ -32,6 +32,9 @@ PRODUCT_COPY_FILES += \
 # Game Dashboard
 ENABLE_GAMETOOLS := true
 
+# Google Camera Mod
+$(call inherit-product, vendor/gcam/gcam-vendor.mk)
+
 # Kernel
 TARGET_KERNEL_DIR ?= device/xiaomi/venus-kernel
 LOCAL_KERNEL := $(TARGET_KERNEL_DIR)/Image
