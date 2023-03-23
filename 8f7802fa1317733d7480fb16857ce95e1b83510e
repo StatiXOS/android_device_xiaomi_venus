@@ -16,6 +16,24 @@
       "message": "https://github.com/StatiXOS/android_vendor_statix/blob/f6927c4eb231fc046fefc0e5ad07d4881085ae19/config/common.mk#L49",
       "revId": "8f7802fa1317733d7480fb16857ce95e1b83510e",
       "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4b79d3c0_1491e699",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000125
+      },
+      "writtenOn": "2023-03-23T05:20:07Z",
+      "side": 1,
+      "message": "You\u0027re right, but my device should be able to handle a higher quality blur (without ro.sf.blurs_are_expensive). I\u0027ll test it further.",
+      "parentUuid": "f452e928_7d2f9b20",
+      "revId": "8f7802fa1317733d7480fb16857ce95e1b83510e",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
     }
   ]
 }
