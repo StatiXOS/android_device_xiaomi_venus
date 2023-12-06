@@ -1,5 +1,8 @@
 # Bluetooth
 bluetooth.device.default_name=Mi 11
 
+# Mediaserver
+ro.mediaserver.64b.enable=true
+
 # USB
 vendor.usb.product_string=Mi 11
